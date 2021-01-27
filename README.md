@@ -1,7 +1,5 @@
 # python-advanced-studies
 
-## Most asked questions I made
-
 - [python-advanced-studies](#python-advanced-studies)
   - [Most asked questions I made](#most-asked-questions-i-made)
     - [I want to write Class methods](#i-want-to-write-class-methods)
@@ -12,6 +10,29 @@
     - [I like FP, how do I write lambda functions](#i-like-fp-how-do-i-write-lambda-functions)
     - [Cool, but destructuring and multiple values returned](#cool-but-destructuring-and-multiple-values-returned)
     - [Cool, cool, cool, and how about decorating my methods](#cool-cool-cool-and-how-about-decorating-my-methods)
+  - [Design Patterns, and it's uses](#design-patterns-and-its-uses)
+    - [Behavioral](#behavioral)
+      - [Command](#command)
+      - [Observer](#observer)
+      - [Publish_subscribe](#publish_subscribe)
+      - [State](#state)
+      - [Strategy](#strategy)
+      - [Template](#template)
+    - [Creational](#creational)
+      - [Abstract-factory](#abstract-factory)
+      - [Blorg](#blorg)
+      - [Factory-method](#factory-method)
+      - [Simple-factory](#simple-factory)
+      - [Singleton](#singleton)
+    - [Fundamental](#fundamental)
+      - [Delegation_pattern](#delegation_pattern)
+    - [Structural](#structural)
+      - [Adapter](#adapter)
+      - [Composite](#composite)
+      - [Facade](#facade)
+      - [Proxy](#proxy)
+
+## Most asked questions I made
 
 ### I want to write Class methods
 
@@ -44,3 +65,82 @@
 ### Cool, cool, cool, and how about decorating my methods
 
 [Answer](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/additional/decorators.py)
+
+## Design Patterns, and it's uses
+
+### Behavioral
+
+#### Command
+
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/command.py)
+
+#### Observer
+
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/observer.py)
+
+#### Publish_subscribe
+
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/publish_subscribe.py)
+
+#### State
+
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/state.py)
+
+#### Strategy
+
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/strategy.py)
+
+#### Template
+
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/template.py)
+
+### Creational
+
+#### Abstract-factory
+
+[Resource Page](https://refactoring.guru/design-patterns/abstract-factory)
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/abstract.py)
+
+#### Blorg
+
+[Resource Page](https://refactoring.guru/design-patterns/singleton)
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/blorg.py)
+
+#### Factory-method
+
+[Resource Page](https://refactoring.guru/design-patterns/factory-method)
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/factory.py)
+
+#### Simple-factory
+
+[Resource Page](https://refactoring.guru/design-patterns/factory-method)
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/simple.py)
+
+#### Singleton
+
+[Resource Page](https://refactoring.guru/design-patterns/singleton)
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/singleton.py)
+
+### Fundamental
+
+#### Delegation_pattern
+
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/fundamental/delegation_pattern.py)
+
+### Structural
+
+#### Adapter
+
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/adapter.py)
+
+#### Composite
+
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/composite.py)
+
+#### Facade
+
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/facade.py)
+
+#### Proxy
+
+[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/proxy.py)
