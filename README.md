@@ -14,7 +14,6 @@
     - [Behavioral](#behavioral)
       - [Command](#command)
       - [Observer](#observer)
-      - [Publish_subscribe](#publish_subscribe)
       - [State](#state)
       - [Strategy](#strategy)
       - [Template](#template)
@@ -23,8 +22,6 @@
       - [Blorg](#blorg)
       - [Factory-method](#factory-method)
       - [Singleton](#singleton)
-    - [Fundamental](#fundamental)
-      - [Delegation_pattern](#delegation_pattern)
     - [Structural](#structural)
       - [Adapter](#adapter)
       - [Composite](#composite)
@@ -81,12 +78,6 @@
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/observer.py)
 
-#### Publish_subscribe
-
-- [Resource Page](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
-
-- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/publish_subscribe.py)
-
 #### State
 
 - [Resource Page](https://refactoring.guru/design-patterns/state)
@@ -130,14 +121,6 @@
 - [Resource Page](https://refactoring.guru/design-patterns/singleton)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/singleton.py)
-
-### Fundamental
-
-#### Delegation_pattern
-
-- [Resource Page](http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns/delegation.html)
--
-- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/fundamental/delegation_pattern.py)
 
 ### Structural
 

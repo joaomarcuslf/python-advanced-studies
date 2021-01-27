@@ -4,3 +4,9 @@ class Singleton(object):
             cls.instance = super(Singleton, cls).__new__(cls)
 
         return cls.instance
+
+
+""" USAGE:
+print(Singleton())
+print(Singleton())
+"""

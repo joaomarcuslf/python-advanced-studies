@@ -2,7 +2,7 @@ from abc import ABCMeta,	abstractmethod
 
 
 class Profile(metaclass=ABCMeta):
-    def init(self):
+    def __init__(self):
         self.sections = []
         self.create_profile()
 
@@ -38,3 +38,11 @@ class ProfileFactory:
             return Linkedin()
         else:
             raise ValueError(profile)
+
+
+""" USAGE:
+factory = ProfileFactory()
+
+facebook = factory.get_profile("facebook")
+print(facebook.get_sections())
+"""
