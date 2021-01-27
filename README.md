@@ -28,6 +28,8 @@
       - [Composite](#composite)
       - [Facade](#facade)
       - [Proxy](#proxy)
+  - [To find more](#to-find-more)
+  - [Used books](#used-books)
 
 ## How to use this repo
 
@@ -154,3 +156,14 @@ Use this repository for consultation first, but don't expect the answer for ever
 - [Resource Page](https://refactoring.guru/design-patterns/proxy)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/proxy.py)
+
+## To find more
+
+- [Python Refresher](https://github.com/tecladocode/python-refresher)
+- [Python Design patterns](https://github.com/Sean-Bradley/Design-Patterns-In-Python)
+- [Design patterns](https://refactoring.guru/design-patterns)
+
+## Used books
+
+- [Learning Python Design Patterns by Chetan Giridhar](https://www.packtpub.com/product/learning-python-design-patterns-second-edition/9781785888038)
+- [Classic Computer Science Problems in Python by David Kopec](https://www.manning.com/books/classic-computer-science-problems-in-python)
