@@ -72,75 +72,80 @@
 
 #### Command
 
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/command.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/command.py)
 
 #### Observer
 
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/observer.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/observer.py)
 
 #### Publish_subscribe
 
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/publish_subscribe.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/publish_subscribe.py)
 
 #### State
 
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/state.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/state.py)
 
 #### Strategy
 
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/strategy.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/strategy.py)
 
 #### Template
 
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/template.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/template.py)
 
 ### Creational
 
 #### Abstract-factory
 
-[Resource Page](https://refactoring.guru/design-patterns/abstract-factory)
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/abstract.py)
+-[Resource Page](https://refactoring.guru/design-patterns/abstract-factory)
+
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/abstract.py)
 
 #### Blorg
 
-[Resource Page](https://refactoring.guru/design-patterns/singleton)
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/blorg.py)
+-[Resource Page](https://refactoring.guru/design-patterns/singleton)
+
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/blorg.py)
 
 #### Factory-method
 
-[Resource Page](https://refactoring.guru/design-patterns/factory-method)
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/factory.py)
+-[Resource Page](https://refactoring.guru/design-patterns/factory-method)
+
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/factory.py)
 
 #### Simple-factory
 
-[Resource Page](https://refactoring.guru/design-patterns/factory-method)
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/simple.py)
+-[Resource Page](https://refactoring.guru/design-patterns/factory-method)
+
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/simple.py)
 
 #### Singleton
 
-[Resource Page](https://refactoring.guru/design-patterns/singleton)
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/singleton.py)
+-[Resource Page](https://refactoring.guru/design-patterns/singleton)
+
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/singleton.py)
 
 ### Fundamental
 
 #### Delegation_pattern
 
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/fundamental/delegation_pattern.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/fundamental/delegation_pattern.py)
 
 ### Structural
 
 #### Adapter
 
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/adapter.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/adapter.py)
 
 #### Composite
 
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/composite.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/composite.py)
 
 #### Facade
 
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/facade.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/facade.py)
 
 #### Proxy
 
-[File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/proxy.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/proxy.py)
