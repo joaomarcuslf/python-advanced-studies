@@ -31,6 +31,10 @@
 
 ## How to use this repo
 
+This isn't suppose to be a complete repository with every implementation of each design patterns, or a documentation for Python, the purpose is to give some fast tips and easy access to help my daily tasks.
+
+Use this repository for consultation first, but don't expect the answer for everything. If you believe something should be added, just open an PR.
+
 ## Most asked questions I made
 
 ### I want to write Class methods
