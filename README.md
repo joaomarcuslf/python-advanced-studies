@@ -1,6 +1,7 @@
 # python-advanced-studies
 
 - [python-advanced-studies](#python-advanced-studies)
+  - [How to use this repo](#how-to-use-this-repo)
   - [Most asked questions I made](#most-asked-questions-i-made)
     - [I want to write Class methods](#i-want-to-write-class-methods)
     - [I want to write Static methods](#i-want-to-write-static-methods)
@@ -27,6 +28,8 @@
       - [Composite](#composite)
       - [Facade](#facade)
       - [Proxy](#proxy)
+
+## How to use this repo
 
 ## Most asked questions I made
 
