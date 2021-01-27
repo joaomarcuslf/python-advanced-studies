@@ -98,31 +98,31 @@
 
 #### Abstract-factory
 
--[Resource Page](https://refactoring.guru/design-patterns/abstract-factory)
+- [Resource Page](https://refactoring.guru/design-patterns/abstract-factory)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/abstract.py)
 
 #### Blorg
 
--[Resource Page](https://refactoring.guru/design-patterns/singleton)
+- [Resource Page](https://refactoring.guru/design-patterns/singleton)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/blorg.py)
 
 #### Factory-method
 
--[Resource Page](https://refactoring.guru/design-patterns/factory-method)
+- [Resource Page](https://refactoring.guru/design-patterns/factory-method)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/factory.py)
 
 #### Simple-factory
 
--[Resource Page](https://refactoring.guru/design-patterns/factory-method)
+- [Resource Page](https://refactoring.guru/design-patterns/factory-method)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/simple.py)
 
 #### Singleton
 
--[Resource Page](https://refactoring.guru/design-patterns/singleton)
+- [Resource Page](https://refactoring.guru/design-patterns/singleton)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/singleton.py)
 
