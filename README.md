@@ -111,7 +111,7 @@
 
 - [Resource Page](https://refactoring.guru/design-patterns/abstract-factory)
 
-- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/abstract.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/abstract_factory.py)
 
 #### Blorg
 
@@ -123,7 +123,7 @@
 
 - [Resource Page](https://refactoring.guru/design-patterns/factory-method)
 
-- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/factory.py)
+- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/factory_method.py)
 
 #### Singleton
 
