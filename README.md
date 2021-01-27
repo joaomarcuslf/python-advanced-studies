@@ -72,25 +72,37 @@
 
 #### Command
 
+- [Resource Page](https://refactoring.guru/design-patterns/command)
+
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/command.py)
 
 #### Observer
+
+- [Resource Page](https://refactoring.guru/design-patterns/observer)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/observer.py)
 
 #### Publish_subscribe
 
+- [Resource Page](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/publish_subscribe.py)
 
 #### State
+
+- [Resource Page](https://refactoring.guru/design-patterns/state)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/state.py)
 
 #### Strategy
 
+- [Resource Page](https://refactoring.guru/design-patterns/strategy)
+
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/strategy.py)
 
 #### Template
+
+- [Resource Page](https://refactoring.guru/design-patterns/template-method)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/behavioral/template.py)
 
@@ -130,22 +142,32 @@
 
 #### Delegation_pattern
 
+- [Resource Page](http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns/delegation.html)
+-
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/fundamental/delegation_pattern.py)
 
 ### Structural
 
 #### Adapter
 
+- [Resource Page](https://refactoring.guru/design-patterns/adapter)
+
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/adapter.py)
 
 #### Composite
+
+- [Resource Page](https://refactoring.guru/design-patterns/composite)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/composite.py)
 
 #### Facade
 
+- [Resource Page](https://refactoring.guru/design-patterns/facade)
+
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/facade.py)
 
 #### Proxy
+
+- [Resource Page](https://refactoring.guru/design-patterns/proxy)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/structural/proxy.py)
