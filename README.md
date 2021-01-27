@@ -22,7 +22,6 @@
       - [Abstract-factory](#abstract-factory)
       - [Blorg](#blorg)
       - [Factory-method](#factory-method)
-      - [Simple-factory](#simple-factory)
       - [Singleton](#singleton)
     - [Fundamental](#fundamental)
       - [Delegation_pattern](#delegation_pattern)
@@ -125,12 +124,6 @@
 - [Resource Page](https://refactoring.guru/design-patterns/factory-method)
 
 - [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/factory.py)
-
-#### Simple-factory
-
-- [Resource Page](https://refactoring.guru/design-patterns/factory-method)
-
-- [File](https://github.com/joaomarcuslf2/python-advanced-studies/blob/main/design_patterns/creational/simple.py)
 
 #### Singleton
 
